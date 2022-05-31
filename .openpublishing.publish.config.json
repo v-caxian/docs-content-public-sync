@@ -18,9 +18,10 @@
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
+  "git_repository_url_open_to_public_contributors": "https://github.com/v-caxian/docs-content-public",
+  "git_repository_branch_open_to_public_contributors": "syncing_branch",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": true,
-  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -29,9 +30,19 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {},
+  "branch_target_mapping": {
+    "live": [
+      "Publish"
+    ],
+    "master": [
+      "Publish"
+    ],
+    "pdf": [
+      "PDF"
+    ]
+  },
   "need_generate_pdf_url_template": false,
-  "docs_build_engine": {
-    "name": "docfx_v3"
-  }
+  "targets": {},
+  "docs_build_engine": {},
+  "contribution_branch_mappings": {}
 }
