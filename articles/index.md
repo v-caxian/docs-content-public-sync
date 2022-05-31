@@ -9,4 +9,6 @@ ms.service: container-service
 
 # Welcome to docs-content-public!
 
+![dog](./images/cat.jpg)
+
 [Google](https://www.google.com)
