@@ -35,17 +35,7 @@
       "branch_mapping": {}
     }
   ],
-  "branch_target_mapping": {
-    "live": [
-      "Publish"
-    ],
-    "master": [
-      "Publish"
-    ],
-    "pdf": [
-      "PDF"
-    ]
-  },
+  "branch_target_mapping": {},
   "need_generate_pdf_url_template": true,
   "targets": {
     "Pdf": {
