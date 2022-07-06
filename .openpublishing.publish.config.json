@@ -15,7 +15,9 @@
       "template_folder": "_themes"
     }
   ],
-  "notification_subscribers": [],
+  "notification_subscribers": [
+    "v-caxian@microsoft.com"
+  ],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/v-caxian/docs-content-public-push",
@@ -41,8 +43,8 @@
       "PDF"
     ]
   },
-  "need_generate_pdf_url_template": false,
   "targets": {},
   "docs_build_engine": {},
+  "need_generate_pdf_url_template": false,
   "contribution_branch_mappings": {}
 }
